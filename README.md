@@ -24,4 +24,4 @@ Nosso objetivo é oferecer uma plataforma simples e prática para que voluntári
 ## 🚀 Como Rodar o Projeto Localmente
 1. Faça o download ou clone este repositório:  
    ```bash
-   git clone <link-do-repositorio>
+   https://github.com/jhonataferreira1-boop/atividade-4
